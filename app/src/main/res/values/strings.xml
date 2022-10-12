@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">atelier4</string>
+    <string name="matricule">Matricule</string>
+    <string name="type">Type</string>
+    <string-array name="type">
+        <item>Pers. physique</item>
+        <item>Pers. morale</item>
+    </string-array>
+    <string name="puissance">Puissance</string>
+    <string name="carburant">Carburant</string>
+    <string name="essence">Essence</string>
+    <string name="diesel">Diesel</string>
+    <string name="gpl">GPL</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="effacer">Effacer</string>
+    <string name="vider">Vider</string>
+</resources>
